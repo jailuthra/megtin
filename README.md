@@ -1,6 +1,6 @@
 # Megtin
 This is a blog theme compatible with Jekyll-Bootstrap.  
-It is live at [www.jailuthra.in](http://jailuthra.in).
+It is live at [jailuthra.github.io/megtin](http://jailuthra.github.io/megtin).
 
 
 ### Installation
