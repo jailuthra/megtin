@@ -39,7 +39,7 @@ body {
     right: 0px;
 }
 
-.nav_link {
+.nav a {
     text-decoration: none;
     color: #000;
     font-size: 1.2em;
@@ -58,7 +58,7 @@ body {
     font-size: 1.1em;
 }
 
-.tag_box li, .pagination li,  .inline {
+.nav li, .tag_box li, .pagination li,  .inline {
     display: inline-block;
     text-transform: capitalize;
     padding: 7px;
@@ -85,7 +85,7 @@ ul { list-style: square outside none; }
 .content ul, .content ol { padding: 0px; }
 .content li { padding-bottom: 4px; }
 
-a {
+.content-main a, .the-footer a {
     color: rgb(54, 97, 161);
     text-decoration: none;
 }
