@@ -3,7 +3,7 @@
 body {
     font-family: "Droid Sans", sans-serif;
     background-color: #eeeef7;
-    color: #3f3f3f;
+    color: #fff;
     }
 
 .brand {
@@ -21,7 +21,7 @@ body {
 .brandin {color:#444;}
 
 .navbar {
-    background-color: #bbbbc4;
+    background-color: #bfbfbf;
     /* position: fixed; for screen>750px, postion: absolute; for screen <750px */
     top: 0px;
     right: 0px;
